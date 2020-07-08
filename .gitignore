@@ -33,4 +33,10 @@
 
 
 # build folder
-/build
+build
+
+
+#Cmake Files
+CmakeFiles
+MakeFile
+*.cmake
