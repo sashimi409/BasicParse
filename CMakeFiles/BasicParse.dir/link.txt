@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBasicParse.a  CMakeFiles/BasicParse.dir/src/Object.cpp.o CMakeFiles/BasicParse.dir/src/Parser.cpp.o CMakeFiles/BasicParse.dir/src/Word.cpp.o
+/usr/bin/ranlib libBasicParse.a
